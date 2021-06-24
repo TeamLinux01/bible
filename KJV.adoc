@@ -1,1 +1,7 @@
+= King James Version Bible
 
+:leveloffset: +1
+
+include::Genesis/_section.adoc
+
+:leveloffset: +1
