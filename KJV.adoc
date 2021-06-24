@@ -2,6 +2,6 @@
 
 :leveloffset: +1
 
-include::Genesis/_section.adoc
+include::Genesis/_chapters.adoc
 
 :leveloffset: +1
