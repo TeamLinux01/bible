@@ -1,3 +1,7 @@
 = Genesis
 
+:leveloffset: +1
+
 include::1.adoc
+
+:leveloffset: +1
